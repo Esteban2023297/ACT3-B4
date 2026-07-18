@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "nombre": "mishel",
+        "apellido": "pachiyi",
+        "edad": 23,
+        "correo": "mishel@gmial.com",
+        "contrasena": "123",
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 1,
+        "nombre": "esteban",
+        "apellido": "maldoando",
+        "edad": 23,
+        "correo": "fox@gmial.com",
+        "contrasena": "123",
+        "rol": "ADMIN",
+        "estado": "INACTIVO"
+    }
+]
